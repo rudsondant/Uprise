@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Avisos.js">
+    <Files>
+      <File FileName="Assets\Scripts\Menu.js" Line="222" Column="13" />
+      <File FileName="Assets\Scripts\Jogador.js" Line="4" Column="53" />
+      <File FileName="Assets\Scripts\IndicadorSeLivre.js" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\Avisos.js" Line="44" Column="2" />
+      <File FileName="Assets\Scripts\Campus.js" Line="21" Column="32" />
+      <File FileName="Assets\Scripts\Construtor.js" Line="135" Column="10" />
+      <File FileName="Assets\Scripts\Predio.js" Line="24" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
